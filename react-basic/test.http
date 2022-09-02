@@ -1,0 +1,19 @@
+GET   http://localhost:3001/data
+Accept: application/json
+
+
+
+###
+
+POST  http://localhost:3001/data
+Content-Type: application/json
+
+{
+  "name": "小明",
+  "dec": "我是小明"
+}
+
+###  测试  http://geek.itheima.net/v1_0/channels'
+
+GET  http://geek.itheima.net/v1_0/channels
+Accept: application/json

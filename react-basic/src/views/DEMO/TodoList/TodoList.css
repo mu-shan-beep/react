@@ -1,0 +1,37 @@
+.todoapp {
+   padding: 20px;
+   width: 45%;
+   margin: 0 auto;
+}
+
+.todoapp .ant-input-search {
+   margin: 10px 0;
+}
+
+.todoapp .ant-card {
+   margin-bottom: 10px;
+}
+
+span {
+   vertical-align: middle;
+}
+
+.clearFix:before, .clearFix:after {
+   clear: both;
+   content: "";
+   display: table;
+   overflow: hidden;
+}
+
+.pre-right {
+   float: right;
+}
+
+.ant-card-body {
+   padding: 5px;
+   
+}
+
+.through {
+   text-decoration: line-through;;
+}
